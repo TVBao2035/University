@@ -1,0 +1,9 @@
+D:\022101012\TVBao\TVBao\bin\Debug\TVBao.exe.config
+D:\022101012\TVBao\TVBao\bin\Debug\TVBao.exe
+D:\022101012\TVBao\TVBao\bin\Debug\TVBao.pdb
+D:\022101012\TVBao\TVBao\obj\Debug\TVBao.csprojResolveAssemblyReference.cache
+D:\022101012\TVBao\TVBao\obj\Debug\TVBao.Form1.resources
+D:\022101012\TVBao\TVBao\obj\Debug\TVBao.Properties.Resources.resources
+D:\022101012\TVBao\TVBao\obj\Debug\TVBao.csproj.GenerateResource.Cache
+D:\022101012\TVBao\TVBao\obj\Debug\TVBao.exe
+D:\022101012\TVBao\TVBao\obj\Debug\TVBao.pdb

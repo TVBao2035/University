@@ -1,0 +1,57 @@
+﻿Build started 02/04/2024 9:20:07 AM.
+     1>Project "C:\Users\M1\Downloads\022101082\Project.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>_MASM:
+         Assembling bai1.asm...
+         cmd.exe /C "C:\Users\M1\AppData\Local\Temp\tmp33d34178195d410d8d9cbc1254ebcfce.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\bai1.obj" /Fl"022101082.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Tabai1.asm
+       _MASM:
+         Assembling bai2.asm...
+         cmd.exe /C "C:\Users\M1\AppData\Local\Temp\tmp539dcdba00e343f4aa20b18e4bcf80b1.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\bai2.obj" /Fl"022101082.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Tabai2.asm
+     1>bai2.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+       _MASM:
+         Assembling bai3.asm...
+         cmd.exe /C "C:\Users\M1\AppData\Local\Temp\tmpab153f80e9ef487ebdcd38bd94fca8ef.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\bai3.obj" /Fl"022101082.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Tabai3.asm
+     1>bai3.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+       _MASM:
+         Assembling bai4.asm...
+         cmd.exe /C "C:\Users\M1\AppData\Local\Temp\tmp3e6b7e69550843abb487372a68431164.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\bai4.obj" /Fl"022101082.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Tabai4.asm
+     1>bai4.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+       _MASM:
+         Assembling bai5.asm...
+         cmd.exe /C "C:\Users\M1\AppData\Local\Temp\tmp0ae98813865848c9b436ca01d3a98ffd.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\bai5.obj" /Fl"022101082.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Tabai5.asm
+     1>bai5.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+       _MASM:
+         Assembling bai6.asm...
+         cmd.exe /C "C:\Users\M1\AppData\Local\Temp\tmp8a3c5afa8eff496ca39e0eb4dd8cd47e.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\bai6.obj" /Fl"022101082.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Tabai6.asm
+     1>bai6.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+       _MASM:
+         Assembling bai7.asm...
+         cmd.exe /C "C:\Users\M1\AppData\Local\Temp\tmp2b1a171ff4ed4ca38e2c78800593d2d9.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\bai7.obj" /Fl"022101082.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Tabai7.asm
+     1>bai7.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+       _MASM:
+         Assembling bai8.asm...
+         cmd.exe /C "C:\Users\M1\AppData\Local\Temp\tmp6ead9401dab44241ad266641f56865b7.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\bai8.obj" /Fl"022101082.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Tabai8.asm
+     1>bai8.asm(5): warning A4011: multiple .MODEL directives found : .MODEL ignored
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\M1\Downloads\022101082\Debug\022101082.exe" /NOLOGO /LIBPATH:c:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\M1\Downloads\022101082\Debug\022101082.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\M1\Downloads\022101082\Debug\022101082.lib" /MACHINE:X86 /SAFESEH:NO Debug\bai1.obj
+         Debug\bai2.obj
+         Debug\bai3.obj
+         Debug\bai4.obj
+         Debug\bai5.obj
+         Debug\bai6.obj
+         Debug\bai7.obj
+         Debug\bai8.obj
+         Project.vcxproj -> C:\Users\M1\Downloads\022101082\Debug\022101082.exe
+     1>Done Building Project "C:\Users\M1\Downloads\022101082\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.54
